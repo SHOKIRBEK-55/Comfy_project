@@ -1,6 +1,6 @@
 import axios from "axios"
-import   "./main.css";
-import  "./index2";
+import   "./style.css";
+import  "./main";
 
 const table:HTMLDListElement = document.querySelector(".table")!;
 const category:NodeListOf<HTMLDivElement> = document.querySelectorAll(".category")!;
